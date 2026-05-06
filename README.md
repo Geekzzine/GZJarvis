@@ -1,5 +1,7 @@
 <img width="1280" height="640" alt="GZJarvisAI" src="https://github.com/user-attachments/assets/192641e6-05fd-4a73-8b1c-99a62699d32e" />
 
+---
+
 ENGLISH:
 
 # GZ J.A.R.V.I.S
