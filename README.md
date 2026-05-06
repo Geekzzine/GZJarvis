@@ -57,7 +57,7 @@ python main.py
 | Requirement | Details |
 |---|---|
 | **OS** | Windows 10/11, macOS, or Linux |
-| **Python** | 3.11 or 3.12 |
+| **Python** | 3.12+ |
 | **Microphone** | Required for voice interaction |
 | **API Key** | Free Gemini API key |
 
@@ -66,7 +66,7 @@ python main.py
 ## ⚠️ License
 
 Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
+Licensed under MIT.
 
 ---
 
@@ -146,19 +146,19 @@ python main.py
 
 ## 📋 Requisitos
 
-| Requirement | Details |
+| Requerido | Detalles |
 |---|---|
-| **OS** | Windows 10/11, macOS, or Linux |
-| **Python** | 3.11 or 3.12 |
-| **Microphone** | Required for voice interaction |
-| **API Key** | Free Gemini API key |
+| **OS** | Windows 10/11, macOS, o Linux |
+| **Python** | 3.12+ |
+| **Microphone** | Requirido para la interaccion por voz |
+| **API Key** | Gemini API key gratuita |
 
 ---
 
 ## ⚠️ Licencia
 
 Solo para uso personal y no comercial.
-Licencia **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
+Licencia MIT.
 
 ---
 
