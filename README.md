@@ -106,9 +106,8 @@ No es solo un asistente: es una extensión de tu vida digital.
 
 ## 🚀 Funcionalidades
 
-### Características principales
-| Característica | Descripción |
-
+### Core Features
+| Caracteristica | Descripcion |
 |---|---|
 
 | 🎙️ Voz en tiempo real | Conversación de latencia ultrabaja en cualquier idioma |
