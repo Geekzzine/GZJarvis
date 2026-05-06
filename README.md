@@ -29,7 +29,7 @@ It's not just an assistant — it's an extension of your digital life.
 
 ---
 
-## 🆕 What's New in J.A.R.V.I.S
+## 🆕 What's New in GZ J.A.R.V.I.S
 
 - 📂 **Advanced File Handling** — New support for direct file uploads. Drop PDFs, source code, or images into the assistant to have them analyzed, summarized, or edited instantly.
 - 🎨 **Adaptive & Flexible UI** — A complete overhaul of the interface. The new UI is fully resizable and responsive, featuring transparency controls and customizable layouts to fit your workspace perfectly.
@@ -65,14 +65,13 @@ python main.py
 
 ## ⚠️ License
 
-Personal and non-commercial use only.
 Licensed under MIT.
 
 ---
 
 ## 👤 Connect with the Creator
 
-Engineered by a developer building a real-world JARVIS-style assistant.
+Engineered by Geekzzine.
 ⭐ **Star the repository to support the journey.**
 
 | Platform | Link |
@@ -107,18 +106,18 @@ No es solo un asistente: es una extensión de tu vida digital.
 ## 🚀 Funcionalidades
 
 ### Core Features
-| Feature | Description |
+| Característica | Descripcion |
 |---|---|
-| 🎙️ Real-time Voice | Ultra-low latency conversation in any language |
-| 🖥️ System Control | Launch apps, manage files, execute terminal commands |
-| 🧩 Autonomous Tasks | High-level planning for complex, multi-step goals |
-| 👁️ Visual Awareness | Real-time screen processing and webcam vision |
-| 🧠 Persistent Memory | Deeply remembers your projects, preferences, and personal context |
-| ⌨️ Hybrid Input | Seamlessly switch between keyboard typing and voice commands |
+| 🎙️ Voz en tiempo real | Conversación con latencia ultrabaja en cualquier idioma |
+| 🖥️ Control del sistema | Iniciar aplicaciones, gestionar archivos, ejecutar comandos de terminal |
+| 🧩 Tareas Autónomas | Planificación de alto nivel para objetivos complejos de múltiples etapas |
+| 👁️ Conciencia visual | Procesamiento de pantalla en tiempo real y visión de la cámara web |
+| 🧠 Memoria persistente | Recuerda profundamente tus proyectos, preferencias y contexto personal |
+| ⌨️ Entrada híbrida | Cambia sin problemas entre la escritura con teclado y los comandos de voz |
 
 ---
 
-## 🆕 Novedades de J.A.R.V.I.S
+## 🆕 Novedades de GZ J.A.R.V.I.S
 
 - 📂 **Gestión avanzada de archivos** — Nueva compatibilidad con la carga directa de archivos. Arrastra archivos PDF, código fuente o imágenes al asistente para que los analice, resuma o edite al instante.
 
@@ -157,14 +156,13 @@ python main.py
 
 ## ⚠️ Licencia
 
-Solo para uso personal y no comercial.
 Licencia MIT.
 
 ---
 
 ## 👤 Conecta con el creador
 
-Desarrollado por un programador que crea un asistente virtual al estilo JARVIS.
+Desarrollado por Geekzzine.
 
 ⭐ **Marca el repositorio con una estrella para apoyar el proyecto.**
 
