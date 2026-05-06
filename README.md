@@ -169,7 +169,6 @@ Desarrollado por un programador que crea un asistente virtual al estilo JARVIS.
 ⭐ **Marca el repositorio con una estrella para apoyar el proyecto.**
 
 | Plataforma | Enlace |
-
 |---|---|
 | Instagram | [@Geekzzine](https://www.instagram.com/geekzzine) |
 
