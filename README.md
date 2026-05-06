@@ -72,6 +72,7 @@ Licensed under MIT.
 ## 👤 Connect with the Creator
 
 Engineered by Geekzzine.
+
 ⭐ **Star the repository to support the journey.**
 
 | Platform | Link |
