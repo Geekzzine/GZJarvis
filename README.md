@@ -94,7 +94,7 @@ SPANISH:
 
 Una IA de voz en tiempo real que puede oír, ver, comprender y controlar tu ordenador en cualquier sistema operativo. Compatible con Windows, macOS y Linux. Ejecución local. Sin suscripciones. Diseñado para una autonomía total.
 
---
+---
 
 ## ✨ Descripción general
 
@@ -102,7 +102,7 @@ GZ Jarvis representa la cúspide de la serie Jarvis, evolucionando hacia un sist
 
 No es solo un asistente: es una extensión de tu vida digital.
 
---
+---
 
 ## 🚀 Funcionalidades
 
@@ -116,7 +116,7 @@ No es solo un asistente: es una extensión de tu vida digital.
 | 🧠 Persistent Memory | Deeply remembers your projects, preferences, and personal context |
 | ⌨️ Hybrid Input | Seamlessly switch between keyboard typing and voice commands |
 
---
+---
 
 ## 🆕 Novedades de J.A.R.V.I.S
 
@@ -128,7 +128,7 @@ No es solo un asistente: es una extensión de tu vida digital.
 
 - ⚡ **Motor principal optimizado**: Se ha mejorado significativamente el rendimiento en la lógica de llamada a herramientas y la generación de respuestas, lo que resulta en una velocidad de interacción un 40 % mayor.
 
---
+---
 
 ## ⚡ Inicio rápido
 
@@ -142,7 +142,7 @@ python main.py
 
 > ⚠️ **Nota de instalación:** Para mantener el repositorio ligero, algunas dependencias específicas del sistema operativo no se incluyen en `requirements.txt`. Si encuentra un `ModuleNotFoundError`, simplemente instale el paquete faltante mediante `pip3 install <nombre_del_módulo>` para su sistema.
 
---
+---
 
 ## 📋 Requisitos
 
@@ -153,14 +153,14 @@ python main.py
 | **Microphone** | Required for voice interaction |
 | **API Key** | Free Gemini API key |
 
---
+---
 
 ## ⚠️ Licencia
 
 Solo para uso personal y no comercial.
 Licencia **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
 
---
+---
 
 ## 👤 Conecta con el creador
 
