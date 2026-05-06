@@ -107,20 +107,14 @@ No es solo un asistente: es una extensión de tu vida digital.
 ## 🚀 Funcionalidades
 
 ### Core Features
-| Caracteristica | Descripcion |
+| Feature | Description |
 |---|---|
-
-| 🎙️ Voz en tiempo real | Conversación de latencia ultrabaja en cualquier idioma |
-
-| 🖥️ Control del sistema | Inicia aplicaciones, gestiona archivos, ejecuta comandos de terminal |
-
-| 🧩 Tareas autónomas | Planificación avanzada para objetivos complejos de varios pasos |
-
-| 👁️ Conciencia visual | Procesamiento de pantalla en tiempo real y visión de la cámara web |
-
-| 🧠 Memoria persistente | Recuerda profundamente tus proyectos, preferencias y contexto personal |
-
-| ⌨️ Entrada híbrida | Cambia sin problemas entre la escritura con teclado y los comandos de voz |
+| 🎙️ Real-time Voice | Ultra-low latency conversation in any language |
+| 🖥️ System Control | Launch apps, manage files, execute terminal commands |
+| 🧩 Autonomous Tasks | High-level planning for complex, multi-step goals |
+| 👁️ Visual Awareness | Real-time screen processing and webcam vision |
+| 🧠 Persistent Memory | Deeply remembers your projects, preferences, and personal context |
+| ⌨️ Hybrid Input | Seamlessly switch between keyboard typing and voice commands |
 
 --
 
@@ -152,17 +146,12 @@ python main.py
 
 ## 📋 Requisitos
 
-| Requisito | Detalles |
-
+| Requirement | Details |
 |---|---|
-
-| **Sistema operativo** | Windows 10/11, macOS o Linux |
-
-| **Python** | 3.11 o 3.12 |
-
-| **Micrófono** | Necesario para la interacción por voz |
-
-| **Clave API** | Clave API gratuita de Gemini |
+| **OS** | Windows 10/11, macOS, or Linux |
+| **Python** | 3.11 or 3.12 |
+| **Microphone** | Required for voice interaction |
+| **API Key** | Free Gemini API key |
 
 --
 
@@ -182,7 +171,6 @@ Desarrollado por un programador que crea un asistente virtual al estilo JARVIS.
 | Plataforma | Enlace |
 
 |---|---|
-
 | Instagram | [@Geekzzine](https://www.instagram.com/geekzzine) |
 
 # ¡NO COMPARTAS TU INFORMACIÓN PERSONAL NI CON ESTE NI CON NINGUN OTRO PROYECTO DE IA BASADO EN LA NUBE!
