@@ -1,4 +1,4 @@
-# 🤖 GZ Jarvis
+# 🤖 GZ Jarvis V 1.1
 
 ### The Ultimate Cross-Platform Personal AI Assistant — By Geekzzine
 
